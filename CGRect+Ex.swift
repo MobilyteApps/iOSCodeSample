@@ -2,8 +2,8 @@
 //  CGRect+Ex.swift
 //  Projectart
 //
-//  Created by Sunil Garg on 20/05/19.
-//  Copyright © 2019 Sunil Garg. All rights reserved.
+//  Created by Infostride on 20/05/19.
+//  Copyright © 2019 Infostride. All rights reserved.
 //
 import UIKit
 
